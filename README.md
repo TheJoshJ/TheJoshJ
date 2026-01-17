@@ -65,14 +65,6 @@ Also serves as the hub for my initiative to build a community-maintained API ext
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheJoshJ&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJoshJ&layout=compact&theme=dark&hide_border=true)
-
----
-
 <p align="center">
   <i>Open to collaboration on RuneScape community projects!</i>
 </p>
