@@ -23,6 +23,10 @@ Outside of work, I'm passionate about creating tools and projects for the **Rune
 A beginner's guide for RuneScape players. Lead developer on this open source project.</br>
 **1M+ page views and 100K+ unique visitors in the first 6 months**
 
+### GEPrice - [Live Site](https://https://geprice.com)
+A crowdsourced price tracking platform for RuneScape items, featuring a Discord bot for community submissions, automated validation algorithms, and a public API.
+**+10,000 users in the first 3 days**
+
 ### FeatFinder - [Live Site](https://featfinder.net)
 Companion app for RuneScape that lets players track quest progress and boss drop collection.</br>
 **Currently home to +1,000 monthly active users**
