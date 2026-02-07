@@ -24,7 +24,7 @@ A beginner's guide for RuneScape players. Lead developer on this open source pro
 **1M+ page views and 100K+ unique visitors in the first 6 months**
 
 ### GEPrice - [Live Site](https://geprice.com)
-A crowdsourced price tracking platform for RuneScape items, featuring a Discord bot for community submissions, automated validation algorithms, and a public API.
+A crowdsourced price tracking platform for RuneScape items, featuring a Discord bot for community submissions, automated validation algorithms, and a public API.</br>
 **+10,000 users in the first 3 days**
 
 ### FeatFinder - [Live Site](https://featfinder.net)
