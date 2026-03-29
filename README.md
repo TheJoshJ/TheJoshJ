@@ -9,7 +9,7 @@ Associate Engineer at **Shipt** | Frontend at work, full-stack at home </br>
 
 I'm a developer who took the non-traditional route into tech. I started in Shipt's call center, then worked my way into engineering after completing Pivot Tech School (2022) for backend development and Hackbright Academy (2023) for frontend. Now I build internal tooling at Shipt.
 
-Outside of work, I'm passionate about creating tools and projects for the **RuneScape community** and collaborating with **TheRSGuy**.
+Outside of work, I create tools and applications for the **RuneScape community** and collaborate with **TheRSGuy** on community projects.
 
 ---
 
