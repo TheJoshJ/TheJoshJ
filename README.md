@@ -27,6 +27,11 @@ A beginner's guide for RuneScape players. Lead developer on this open source pro
 A crowdsourced price tracking platform for RuneScape items, featuring a Discord bot for community submissions, automated validation algorithms, and a public API.</br>
 **+10,000 users in the first 3 days**
 
+
+### VodSearch - [GitHub](https://github.com/TheJoshJ/vod-search)
+Find any moment across your entire video library with a plain-language search.</br>
+The app transcribes and summarizes footage, recognizes tagged speakers, and turns search results into ready-to-share short-form clips.
+
 ### FeatFinder - [Live Site](https://featfinder.net)
 Companion app for RuneScape that lets players track quest progress and boss drop collection.</br>
 **Currently home to +1,000 monthly active users**
