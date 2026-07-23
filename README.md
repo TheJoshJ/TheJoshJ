@@ -28,7 +28,7 @@ A crowdsourced price tracking platform for RuneScape items, featuring a Discord 
 **+10,000 users in the first 3 days**
 
 
-### VodSearch - [GitHub](https://github.com/TheJoshJ/vod-search)
+### CutScout - [GitHub](https://github.com/TheJoshJ/CutScout)
 Find any moment across your entire video library with a plain-language search.</br>
 The app transcribes and summarizes footage, recognizes tagged speakers, and turns search results into ready-to-share short-form clips.
 
