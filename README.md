@@ -25,7 +25,7 @@ A beginner's guide for RuneScape players. Lead developer on this open source pro
 
 ### GEPrice - [Live Site](https://geprice.com)
 A crowdsourced price tracking platform for RuneScape items, featuring a Discord bot for community submissions, automated validation algorithms, and a public API.</br>
-**1m+ item queries and 150k+ unique visitors**
+**1m+ item queries and 150k+ unique visitors & 500k price queries before we shutdown in July 2026**
 
 
 ### CutScout - [GitHub](https://github.com/TheJoshJ/CutScout)
